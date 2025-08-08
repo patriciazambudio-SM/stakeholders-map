@@ -1,0 +1,37 @@
+﻿Categoría,Grupo de interés,Área,Importancia (1-5),Distancia (0-10),Nivel de categoría,Color
+Interno,Junta Directiva / CEO / Dirección General,6.0,5.0,1,3,#1f9e6f
+Interno,Equipo de gestión (dirección),6.0,5.0,2,3,#1f9e6f
+Interno,Jefes de equipo call center,6.0,4.0,3,3,#1f9e6f
+Interno,Atención al cliente / call center,6.0,2.0,5,3,#1f9e6f
+Interno,Empleados de oficinas y retail,6.0,2.5,4,3,#1f9e6f
+Interno,Equipo e-commerce y digital,6.0,3.0,3,3,#1f9e6f
+Interno,Equipo comercial B2B y B2C,6.0,3.5,3,3,#1f9e6f
+Interno,Desarrolladores y equipo tecnológico,6.0,3.0,1,3,#1f9e6f
+Interno,Inversores actuales y socios estratégicos,6.0,3.5,3,3,#1f9e6f
+Interno,Consejo asesor ESG,6.0,2.5,3,3,#1f9e6f
+Conectado,Mayores y Familias,1.0,5.0,4,2,#e1f0ec
+Conectado,Profesionales sanitarios,4.0,3.5,4,2,#e1f0ec
+Conectado,Distribuidores y comercializadores,2.0,3.0,4,2,#e1f0ec
+Conectado,Proveedores de productos,2.0,5.0,5,2,#e1f0ec
+Conectado,Proveedores de servicios,2.0,5.0,6,2,#e1f0ec
+Conectado,Proveedores construcción tiendas (Artisnova),2.0,5.0,4,2,#e1f0ec
+Conectado,Transportistas,2.0,3.0,6,2,#e1f0ec
+Conectado,Colaboradores en formación y talleres,4.0,2.5,8,2,#e1f0ec
+Conectado,Medios especializados,8.0,2.5,6,2,#e1f0ec
+Conectado,Influencers y creadores de contenido,,2.0,10,2,#e1f0ec
+Conectado,Residencias,5.0,5.0,3,2,#e1f0ec
+Conectado,Hospitales,5.0,5.0,5,2,#e1f0ec
+Externo,Clientes institucionales – Administraciones públicas,3.0,5.0,6,1,#f7ac6f
+Externo,Gobierno nacional,3.0,5.0,6,1,#f7ac6f
+Externo,Gobiernos autonómicos y municipales,3.0,5.0,4,1,#f7ac6f
+Externo,Entidades reguladoras y certificadoras,3.0,4.0,5,1,#f7ac6f
+Externo,Organizaciones profesionales,3.0,2.0,4,1,#f7ac6f
+Externo,Organizaciones de consumidores,,2.0,9,1,#f7ac6f
+Externo,ONG y fundaciones de mayores,9.0,2.0,9,1,#f7ac6f
+Externo,Medios generalistas,8.0,2.0,9,1,#f7ac6f
+Externo,Comunidad local,7.0,3.5,8,1,#f7ac6f
+Externo,Proveedores de energía sostenibles,9.0,1.5,9,1,#f7ac6f
+Externo,Inversores ESG / impacto social,9.0,2.5,5,1,#f7ac6f
+Externo,Asociaciones sectoriales,9.0,2.0,9,1,#f7ac6f
+Externo,Sociedad en general,7.0,3.5,5,1,#f7ac6f
+Externo,Medio ambiente,9.0,1.5,10,1,#f7ac6f
